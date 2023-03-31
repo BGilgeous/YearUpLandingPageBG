@@ -1,0 +1,76 @@
+/* Body Styles*/
+
+body {
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: antiquewhite;
+    text-align: center;
+
+}
+
+
+/* Paragraph Styles*/
+
+p {
+    border-style: solid;
+
+}
+
+/* Header Styles*/
+
+h1 img {
+    image-rendering: smooth;
+    height: auto;
+    width: auto;
+}
+
+h4 {
+    color: yellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    ;
+}
+
+/* Navigation Styles*/
+nav {
+    display: block;
+    width: 100%;
+}
+
+/* List Styles*/
+ul { 
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    border: 1px 100% solid black;
+    font-size: x-large;
+    background-color: goldenrod;
+}
+
+li {
+    display: inline;
+    width: 700px;
+    border: 3px solid white;
+    text-align: center;
+}
+
+/* Form Styles */
+
+form {
+
+    float: right;
+    width: 50%;
+    padding: 10px;
+    border:5px solid white;
+    background-color: goldenrod;
+    margin: 0;
+    font-style:  bold;
+    font-family: Times;
+}
+
+input {
+    width: 100%;
+}
